@@ -12,7 +12,7 @@ Based on the principles described in
 
 ## Project Overview
 
-Ambient occlusion at a point \(\bar{p}\) with normal \(\hat{n}\) integrates
+Ambient occlusion at a point $\bar{p}$ with normal $\hat{n}$ integrates
 visibility over the hemisphere with respect to projected solid angle. This
 package approximates that integral with typed Ada constructions:
 
